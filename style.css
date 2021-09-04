@@ -1,0 +1,35 @@
+input {
+  padding: 1rem;
+  width: 60%;
+  margin-left: 14rem;
+  font-family: 'Azeret Mono', monospace;
+  border: none;
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Azeret Mono', monospace;
+}
+
+h3 {
+  text-align: center;
+  padding-bottom: 1rem;
+  font-family: 'Azeret Mono', monospace;
+}
+
+span {
+  padding: 1rem;
+  font-size: large;
+  margin-left: 10rem;
+}
+
+.output {
+  text-align: center;
+  padding: 1rem;
+  color: white;
+  font-family: 'Azeret Mono', monospace;
+}
+
+body {
+  background-color: #60a5fa;
+}
